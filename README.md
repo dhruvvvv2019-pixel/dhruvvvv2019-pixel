@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I am Dhruv Mishra
+### M.Tech (JCS) @ IIT Delhi
 
-<!--
-**dhruvvvv2019-pixel/dhruvvvv2019-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a graduate student at IIT Delhi with a strong foundation in computer science and a focus on building scalable, efficient systems. I enjoy solving complex problems, writing clean code, and continuously improving my understanding of system design and software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* **Languages:** C, C++, Python, SQL
+* **Core Areas:** Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS
+
+---
+
+## 🚀 What I’m Focused On
+
+* Writing optimized and quality code
+* Strengthening problem-solving skills (DSA skills)
+* Exploring real-world applications of system design
+
+---
+
+## 📫 Contact
+
+* Email: dhruvvvv.2019@gmail.com
+* LinkedIn: www.linkedin.com/in/dhruv-mishra-0344ba17a
+
